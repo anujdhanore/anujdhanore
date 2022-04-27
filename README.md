@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anujdhanore
 - 👀 I’m interested in automation testing
-- 🌱 I’m currently learning selenium with python
+- 🌱 I’m currently learning selenium with C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
